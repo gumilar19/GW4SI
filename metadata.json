@@ -1,0 +1,6 @@
+{
+  "name": "GW4SI",
+  "description": "Groundwater Balance and Scenario Analysis tool for Small Islands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
